@@ -1,6 +1,6 @@
 # banco_de_dados_rede_social
 
-##Descrição do Projeto:
+**Descrição do Projeto:**
 O Face Truco é uma aplicação de rede social simples, construída com um banco de dados SQL. Permite que os usuários compartilhem postagens, comentem nas postagens de outros usuários e mantenham uma lista de amizades.
 
 #Estrutura do Banco de Dados
