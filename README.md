@@ -30,19 +30,19 @@ Mantém um registro de amizades entre os usuários, utilizando a chave primária
 **Consultas Exemplos**
 
 **Recuperação de Postagens**
-Para listar todas as postagens feitas por um usuário chamado 'João', execute a consulta no arquivo `queries.sql`.
+Para listar todas as postagens feitas por um usuário chamado 'João', execute a consulta no arquivo  `Face_truco.sql`.
 
 **Comentários em uma Postagem**
-Para mostrar todos os comentários feitos em uma postagem com o texto 'Bom dia, mundo!', consulte o arquivo `queries.sql`.
+Para mostrar todos os comentários feitos em uma postagem com o texto 'Bom dia, mundo!', consulte o arquivo `Face_truco.sql`.
 
 **Estatísticas de Atividades**
-Apresenta a contagem total de postagens e comentários feitos por cada usuário. A consulta pode ser encontrada em `queries.sql`.
+Apresenta a contagem total de postagens e comentários feitos por cada usuário. A consulta pode ser encontrada em `Face_truco.sql`.
 
 **Amizades Recentes**
-Lista todas as novas amizades formadas nos últimos 30 dias. Consulte o arquivo `queries.sql`.
+Lista todas as novas amizades formadas nos últimos 30 dias. Consulte o arquivo `Face_truco.sql``.
 
 **Detalhes de um Usuário**
-Fornece informações detalhadas sobre um usuário chamado 'Maria', incluindo suas postagens e amizades. Consulte o arquivo `queries.sql`.
+Fornece informações detalhadas sobre um usuário chamado 'Maria', incluindo suas postagens e amizades. Consulte o arquivo `Face_truco.sql`.
 
 **Requisitos**
 Sistema de gerenciamento de banco de dados SQL (ex: MySQL, PostgreSQL)
